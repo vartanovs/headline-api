@@ -1,0 +1,29 @@
+{
+  "name": "headline-api",
+  "version": "1.0.0",
+  "description": "API that allows users to submit a headline and get a list of possible alternative headlines in return.",
+  "main": "server/index.ts",
+  "scripts": {
+    "start": "ts-node server/index.ts",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vartanovs/headline-api.git"
+  },
+  "author": "Serge Vartanov <vartanov.s@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vartanovs/headline-api/issues"
+  },
+  "homepage": "https://github.com/vartanovs/headline-api#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.0",
+    "jest": "^23.6.0"
+  }
+}

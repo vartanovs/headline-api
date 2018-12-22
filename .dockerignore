@@ -1,0 +1,10 @@
+coverage
+node_modules
+
+Dockerfile
+docker-compose.yml
+.dockerignore
+.DS_Store
+
+README.md
+LICENSE
