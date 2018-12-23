@@ -1,14 +1,14 @@
 version: "3"
 
 services:
-  api_server:
+  dev_api_server:
     image: vartanovs/headline-api
-    container_name: "api-server"
+    container_name: "dev-api-server"
     ports:
       - "3000:3000"
     volumes:
       - node_modules:/usr/src/app/node_modules
-    command: bash -c "npm install && npm start"
+    command: bash -c "npm install && npm run dev"
 
 # shared volumes
 volumes:

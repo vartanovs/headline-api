@@ -1,0 +1,89 @@
+{
+  "quick": {
+    "adjective": [
+      "quick",
+      "speedy",
+      "flying",
+      "fast",
+      "agile",
+      "nimble",
+      "spry",
+      "ready",
+      "immediate",
+      "prompt",
+      "straightaway",
+      "warm"
+    ],
+    "adverb": [
+      "quick",
+      "promptly",
+      "quickly"
+    ],
+    "noun": [
+      "quick",
+      "area",
+      "region"
+    ]
+  },
+  "brown": {
+    "adjective": [
+      "brown",
+      "brownish",
+      "chocolate-brown",
+      "dark-brown",
+      "browned"
+    ],
+    "noun": [
+      "brownness",
+      "brown",
+      "abolitionist",
+      "botanist",
+      "emancipationist",
+      "phytologist",
+      "university"
+    ],
+    "verb": [
+      "brown",
+      "cook"
+    ]
+  },
+  "fox": {
+    "noun": [
+      "dodger",
+      "slyboots",
+      "fox",
+      "algonquian",
+      "algonquin",
+      "beguiler",
+      "canid",
+      "canine",
+      "cheat",
+      "cheater",
+      "deceiver",
+      "fur",
+      "pelt",
+      "slicker",
+      "solon",
+      "statesman",
+      "trickster"
+    ],
+    "verb": [
+      "fox",
+      "flim-flam",
+      "trick",
+      "fob",
+      "confuse",
+      "throw",
+      "befuddle",
+      "fuddle",
+      "bedevil",
+      "confound",
+      "discombobulate",
+      "be",
+      "cozen",
+      "deceive",
+      "delude",
+      "spot"
+    ]
+  }
+}

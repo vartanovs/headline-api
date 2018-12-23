@@ -1,0 +1,247 @@
+{
+  "florida": {
+    "noun": [
+      "florida",
+      "fl"
+    ]
+  },
+  "man": {
+    "noun": [
+      "serviceman",
+      "homo",
+      "human",
+      "valet",
+      "gentleman",
+      "man",
+      "piece",
+      "world",
+      "humanity",
+      "humankind",
+      "humans",
+      "mankind",
+      "group",
+      "grouping",
+      "hominid",
+      "individual",
+      "island",
+      "lover",
+      "male",
+      "manservant",
+      "mortal",
+      "person",
+      "somebody",
+      "someone",
+      "soul",
+      "subordinate",
+      "subsidiary",
+      "underling"
+    ],
+    "verb": [
+      "man",
+      "staff",
+      "work"
+    ]
+  },
+  "throws": {
+    "noun": [
+      "throws",
+      "stroke",
+      "actuation",
+      "bedclothes",
+      "bedding",
+      "chance",
+      "gambling",
+      "gaming",
+      "motion",
+      "movement",
+      "opportunity",
+      "play",
+      "propulsion"
+    ],
+    "verb": [
+      "throws",
+      "shed",
+      "cast",
+      "drop",
+      "thrust",
+      "give",
+      "flip",
+      "switch",
+      "project",
+      "contrive",
+      "bewilder",
+      "bemuse",
+      "discombobulate",
+      "hurl",
+      "hold",
+      "have",
+      "make",
+      "confuse",
+      "fox",
+      "befuddle",
+      "fuddle",
+      "bedevil",
+      "confound",
+      "be",
+      "bump",
+      "communicate",
+      "direct",
+      "discomfit",
+      "discompose",
+      "disconcert",
+      "dislodge",
+      "displace",
+      "engage",
+      "express",
+      "forge",
+      "form",
+      "impel",
+      "intercommunicate",
+      "lay",
+      "lock",
+      "mesh",
+      "mold",
+      "mould",
+      "move",
+      "operate",
+      "place",
+      "pose",
+      "position",
+      "propel",
+      "put",
+      "release",
+      "remove",
+      "send",
+      "set",
+      "shape",
+      "take",
+      "turn",
+      "untune",
+      "upset",
+      "utter",
+      "verbalise",
+      "verbalize",
+      "withdraw",
+      "work"
+    ]
+  },
+  "alligator": {
+    "noun": [
+      "alligator",
+      "gator",
+      "crocodilian",
+      "leather"
+    ],
+    "verb": [
+      "alligator",
+      "crack"
+    ]
+  },
+  "at": {
+    "noun": [
+      "astatine",
+      "at",
+      "element",
+      "halogen"
+    ]
+  },
+  "waitress": {
+    "noun": [
+      "waitress",
+      "server",
+      "waiter"
+    ],
+    "verb": [
+      "waitress",
+      "wait",
+      "work"
+    ]
+  },
+  "quick": {
+    "adjective": [
+      "quick",
+      "speedy",
+      "flying",
+      "fast",
+      "agile",
+      "nimble",
+      "spry",
+      "ready",
+      "immediate",
+      "prompt",
+      "straightaway",
+      "warm"
+    ],
+    "adverb": [
+      "quick",
+      "promptly",
+      "quickly"
+    ],
+    "noun": [
+      "quick",
+      "area",
+      "region"
+    ]
+  },
+  "brown": {
+    "adjective": [
+      "brown",
+      "brownish",
+      "chocolate-brown",
+      "dark-brown",
+      "browned"
+    ],
+    "noun": [
+      "brownness",
+      "brown",
+      "abolitionist",
+      "botanist",
+      "emancipationist",
+      "phytologist",
+      "university"
+    ],
+    "verb": [
+      "brown",
+      "cook"
+    ]
+  },
+  "fox": {
+    "noun": [
+      "dodger",
+      "slyboots",
+      "fox",
+      "algonquian",
+      "algonquin",
+      "beguiler",
+      "canid",
+      "canine",
+      "cheat",
+      "cheater",
+      "deceiver",
+      "fur",
+      "pelt",
+      "slicker",
+      "solon",
+      "statesman",
+      "trickster"
+    ],
+    "verb": [
+      "fox",
+      "flim-flam",
+      "trick",
+      "fob",
+      "confuse",
+      "throw",
+      "befuddle",
+      "fuddle",
+      "bedevil",
+      "confound",
+      "discombobulate",
+      "be",
+      "cozen",
+      "deceive",
+      "delude",
+      "spot"
+    ]
+  }
+}

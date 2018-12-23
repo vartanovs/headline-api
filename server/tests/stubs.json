@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Quick",
+    "normal": "quick",
+    "tags": [
+      "TitleCase",
+      "Comparable",
+      "Adjective"
+    ]
+  },
+  {
+    "text": "brown",
+    "normal": "brown",
+    "tags": [
+      "Comparable",
+      "Adjective"
+    ]
+  },
+  {
+    "text": "fox.",
+    "normal": "fox",
+    "tags": [
+      "Noun",
+      "Singular"
+    ]
+  }
+]
