@@ -1,5 +1,5 @@
 # Headline Generation API
-This API  allows users to submit a headline (a string such as an article or blog headline) and receive an array of possible alternative headlines.
+This API allows users to submit a headline (a string such as an article or blog headline) and receive an array of possible alternative headlines.
 
 Alternative headlines are generated through the following process:
 1. The headline is passed through the 'compromise' JavaScript natural language processing module

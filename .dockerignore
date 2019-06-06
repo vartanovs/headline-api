@@ -2,7 +2,7 @@ coverage
 node_modules
 
 Dockerfile
-docker-compose.yml
+docker-compose.*
 .dockerignore
 .DS_Store
 
